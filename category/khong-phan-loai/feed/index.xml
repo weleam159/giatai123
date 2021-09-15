@@ -1,0 +1,44 @@
+<br />
+<b>Warning</b>:  The magic method Predic_Widget::__wakeup() must have public visibility in <b>E:\xampp\htdocs\myproject\wordpress\wp-content\themes\inx-game\vendors\predic-widget\predic-widget.php</b> on line <b>192</b><br />
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Chưa phân loại &#8211; My WordPress</title>
+	<atom:link href="http://localhost/myproject/wordpress/category/khong-phan-loai/feed/" rel="self" type="application/rss+xml" />
+	<link>https://weleam159.github.io/giatai123</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Wed, 15 Sep 2021 14:30:44 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Top 5 Game Thịnh Hành Tại Việt Nam</title>
+		<link>https://weleam159.github.io/giatai123/top-5-game-thinh-hanh-tai-viet-nam/</link>
+					<comments>https://weleam159.github.io/giatai123/top-5-game-thinh-hanh-tai-viet-nam/#respond</comments>
+		
+		<dc:creator><![CDATA[nguyengiatai]]></dc:creator>
+		<pubDate>Mon, 30 Aug 2021 02:19:12 +0000</pubDate>
+				<category><![CDATA[Chưa phân loại]]></category>
+		<guid isPermaLink="false">https://weleam159.github.io/giatai123/?p=13</guid>
+
+					<description><![CDATA[Sau những giờ làm việc học tập hoặc làm việc căng thẳng, đôi khi chúng ta sẽ cần một ít phút thư giản cho quên đi những bộn bề đó và việc&#160;chơi game&#160;cũng là một trong những cách mà cũng nhiều bạn đang chọn, đặc biệt là giới trẻ hiện nay. 1.PUBG Với ưu thế<div class="more-link">
+				 <a href="https://weleam159.github.io/giatai123/top-5-game-thinh-hanh-tai-viet-nam/" class="btn theme-btn"><span>Continue Reading </span><i class="icofont-long-arrow-right"></i></a>
+			</div>]]></description>
+		
+					<wfw:commentRss>https://weleam159.github.io/giatai123/top-5-game-thinh-hanh-tai-viet-nam/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
